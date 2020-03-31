@@ -31,16 +31,16 @@
     "http": "0.0.0",
     "json-bigint": "^0.1.4",
     "lodash": "latest",
-    "minimist": "^1.1.1",
+    "minimist": "^1.2.5",
     "rc": "^1.2.8"
   },
   "devDependencies": {
-    "bignumber.js": "^2.0.7",
+    "bignumber.js": "^2.4.0",
     "docast": "^0.1.1",
     "glob": "^6.0.0",
-    "js-yaml": "^3.2.7",
-    "marked": "^0.3.9",
-    "mocha": "^5.2.0",
-    "sinon": "^1.15.4"
+    "js-yaml": "^3.13.1",
+    "marked": "^0.8.2",
+    "mocha": "^7.1.1",
+    "sinon": "^1.17.7"
   }
 }
