@@ -30,7 +30,7 @@
     "extend": "^3.0.0",
     "http": "0.0.0",
     "json-bigint": "^0.1.4",
-    "lodash": "latest",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.5",
     "rc": "^1.2.8"
   },
